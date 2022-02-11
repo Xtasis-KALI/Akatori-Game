@@ -1,4 +1,5 @@
 # Akatori Website
+official repo of the Akatori Website
 
 # Donations
 Bitcoin: `bc1q84ryls6w6fzrm4ny0f0yxpvz4gy49juj6u7mnq`
@@ -11,4 +12,5 @@ Solana: `AKtqD7G8oe11XEr1zzh4aEcXdrxvHuXz27LELUnJDtji`
 
 
 # How to contribute
-u can star the project or make a donation
+- u can star the project
+- or make a donation
